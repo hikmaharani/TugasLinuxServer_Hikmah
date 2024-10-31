@@ -15,7 +15,7 @@ Secure Shell (SSH) adalah protokol jaringan yang memungkinkan pengguna untuk men
 
 # Pembahasan 
 
-**1. Unduh Ubuntu versi 24.04.1 LTS**
+**1. Unduh Ubuntu server versi 24.04.1 LTS**
 
 ![Screenshot 2024-10-30 112358](https://github.com/user-attachments/assets/2b5c7f51-76ff-4919-8964-78ecc2cedc18)
 
